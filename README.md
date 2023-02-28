@@ -14,7 +14,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohun-mat)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=robinhut0071)](https://solved.ac/robinhut0071)
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=robinhut0071)](https://solved.ac/111)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=robinhut0071)](https://solved.ac/robinhut0071)
