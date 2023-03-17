@@ -2,7 +2,7 @@
 
 ●수원대학교 국건영 데이터과학 경진대회(1등)★입상 - https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest    
 ●농업인손상예측데이터분석 경진대회참가 - https://github.com/dohun-mat/dataAnalysisContest
-●dna세미나에서 pytorch를 다뤄보고 논문분석 - https://github.com/dohun-mat/dna_study_semina  
+●dna세미나에서 pytorch를 다뤄보고 논문분석 - https://github.com/dohun-mat/dna_study_semina    
 ●카카오톡api를 이용한 용산IMAX 명당자리 예약알림서비스제작   
 ●한이음 공모전에나가서 주가예측 프로젝트를 팀장으로 진행  
 ●수원대 X 데이콘 22년 여름 방학 교육에 참여하여 여러 경진대회의 코드를 리뷰하고 다양한 대회에 나가보았습니다.  
