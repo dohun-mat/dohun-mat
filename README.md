@@ -1,6 +1,6 @@
 # 기술경력   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-●수원대학교 국건영 데이터과학 경진대회(1등)★입상 - https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest    
+●수원대학교 국건영 데이터과학 경진대회(1등)★입상 - https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest  
 ●농업인손상예측데이터분석 경진대회참가 - https://github.com/dohun-mat/dataAnalysisContest
 ●dna세미나에서 pytorch를 다뤄보고 논문분석 - https://github.com/dohun-mat/dna_study_semina    
 ●카카오톡api를 이용한 용산IMAX 명당자리 예약알림서비스제작   
