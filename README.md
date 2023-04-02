@@ -1,6 +1,6 @@
 # 기술경력   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-●수원대학교 국건영 데이터분석 경진대회(1등)★입상 - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
+●수원대학교 국건영 데이터분석 경진대회 대상수상(2022 수원대학교 데이터경진대회 정형데이터 부문 1위) - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
 ●java로 고전게임구현 - [java로 뱀게임구현 git링크](https://github.com/dohun-mat/java_snack_game)   
 ●농업인손상예측데이터분석 경진대회참가 - [농업인손상예측데이터분석 경진대회 git링크](https://github.com/dohun-mat/dataAnalysisContest)  
 ●한이음 공모전에나가서 주가예측 프로젝트를 팀장으로 진행 - [주가예측 프로젝트 git링크](https://github.com/dohun-mat/hanium-netlfexStockPredict)  
