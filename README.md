@@ -17,4 +17,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohun-mat)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=robinhut0071)](https://solved.ac/robinhut0071)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=robinhut0071)](https://solved.ac/robinhut0071)  
+
+공부할때 참고자료
+1. 수학 - https://aman.ai/primers/math/  
+2. 
