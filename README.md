@@ -21,4 +21,7 @@
 
 공부할때 참고자료
 1. 수학 - https://aman.ai/primers/math/  
-2. 1:1 그리스문자 - https://datascienceschool.net/02%20mathematics/01.01%20%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EB%AC%B8%EC%9E%90.html
+2. 1:1 그리스문자 - https://datascienceschool.net/02%20mathematics/01.01%20%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EB%AC%B8%EC%9E%90.htm
+
+Gpt4 주소입니다. 3시간당 10회씩이니 신중하게 쓰세요
+https://accounts.forefront.ai/sign-in?redirect_url=https%3A%2F%2Fchat.forefront.ai%2F
