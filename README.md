@@ -7,7 +7,7 @@
 ●수원대 X 데이콘 22년 여름 방학 교육에 참여하여 여러 경진대회의 코드를 리뷰하고 다양한 대회에 나가보았습니다. - [수원대X데이콘 실무역량강화 교육 git링크](https://github.com/dohun-mat/dacon_study)  
 ●팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회  - [데이콘 팔당댐 수위예측 경진대회 git링크](https://github.com/dohun-mat/dacon-palbangdam)  
 ●카카오톡api를 이용한 용산IMAX 명당자리 예약알림서비스제작 - [cgv 명당자리 알림서비스 git링크](https://github.com/dohun-mat/cgv-great-location-kakaotalk-alram)  
-●dna세미나에서 pytorch를 다뤄보고 논문분석 - [dna세미나 git링크 ](https://github.com/dohun-mat/dna_study_semina)  
+●dna vision세미나에서 pytorch를 다뤄보고 논문분석 - [dna세미나 git링크 ](https://github.com/dohun-mat/dna_study_semina)  
 ●수원대학교 학부연구생 활동  
 ●티스토리 링크 : https://dohun-0714.tistory.com/  
 
