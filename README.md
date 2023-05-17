@@ -25,3 +25,7 @@
 
 Gpt4 주소입니다. 3시간당 5회씩이니 신중하게 쓰세요
 https://accounts.forefront.ai/sign-in?redirect_url=https%3A%2F%2Fchat.forefront.ai%2F
+
+computer_vision 로드맵  
+[Computer_Vision.pdf](https://github.com/dohun-mat/dohun-mat/files/11493404/Computer_Vision.pdf)
+
