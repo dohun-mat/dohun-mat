@@ -1,5 +1,6 @@
 # 기술경력   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+●CT사진으로 뇌동맥유무를 판단하는 예측 kium경진대회 참가 - [뇌동맥류 예측 kium ai 경진대회 git 링크](https://github.com/dohun-mat/k-ium_Cerebral-aneurysm/tree/main)  
 ●수원대학교 국건영 데이터분석 경진대회 대상수상(2022 수원대학교 데이터경진대회 정형데이터 부문 1위) - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
 ●java로 고전게임구현 - [java로 뱀게임구현 git링크](https://github.com/dohun-mat/java_snack_game)   
 ●농업인손상예측데이터분석 경진대회참가 - [농업인손상예측데이터분석 경진대회 git링크](https://github.com/dohun-mat/dataAnalysisContest)  
