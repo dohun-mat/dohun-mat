@@ -2,7 +2,7 @@
 
 ## Deep Learning Project 
 ●CT사진으로 뇌동맥유무를 판단하는 예측 kium경진대회 참가 - [뇌동맥류 예측 kium ai 경진대회 git 링크](https://github.com/dohun-mat/k-ium_Cerebral-aneurysm/tree/main)  
-●dna vision세미나에서 pytorch를 다뤄보고 논문분석 - [dna세미나 git링크 ](https://github.com/dohun-mat/dna_study_semina)  
+●dna vision세미나에서 pytorch를 다뤄보고 논문읽고 전이학습 - [dna세미나 git링크 ](https://github.com/dohun-mat/dna_study_semina)  
 ●한이음 공모전에나가서 주가예측 프로젝트를 팀장으로 진행 - [주가예측 프로젝트 git링크](https://github.com/dohun-mat/hanium-netlfexStockPredict)  
 
 
