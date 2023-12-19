@@ -25,7 +25,7 @@
 
 ## etc
 ●수원대학교 학부연구생 활동  
-●carecruise인턴 2개월 -   
+●carecruise인턴 2개월 - https://github.com/dohun-mat/care_cruis_repo
 ●티스토리 링크 : https://dohun-0714.tistory.com/  
 
 
