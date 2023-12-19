@@ -6,8 +6,6 @@
 ●KSC_SSL_논문
 ●논문을 읽어보고 눈문구현 - [논문_code구현링크](https://github.com/dohun-mat/paper_code/tree/main)  
 
-
-
 ## Machine Learning Project 
 ●데이콘 와인품질분류대회 참가 - https://github.com/dohun-mat/dacon_wine_class  
 ●수원대 X 데이콘 22년 여름 방학 교육에 참여하여 여러 경진대회의 코드를 리뷰하고 다양한 대회에 나가보았습니다. - [수원대X데이콘 실무역량강화 교육 git링크](https://github.com/dohun-mat/dacon_study)  
@@ -16,11 +14,18 @@
 ●수원대학교 국건영 데이터분석 경진대회 대상수상(2022 수원대학교 데이터경진대회 정형데이터 부문 1위) - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
 ●농업인손상예측데이터분석 경진대회참가 - [농업인손상예측데이터분석 경진대회 git링크](https://github.com/dohun-mat/dataAnalysisContest)  
 
+## 논문  
+●체비셰프거리 - [ㄹㄹ석 경진대회 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)    
+
+
 ## Personal Proeject
 ●카카오톡api를 이용한 용산IMAX 명당자리 예약알림서비스제작 - [cgv 명당자리 알림서비스 git링크](https://github.com/dohun-mat/cgv-great-location-kakaotalk-alram)  
 
 ## JAVA Project 
 ●java로 고전게임구현 - [java로 뱀게임구현 git링크](https://github.com/dohun-mat/java_snack_game)   
+
+
+
 
 ## etc
 ●수원대학교 학부연구생 활동  
