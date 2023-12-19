@@ -14,21 +14,18 @@
 ●수원대학교 국건영 데이터분석 경진대회 대상수상(2022 수원대학교 데이터경진대회 정형데이터 부문 1위) - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
 ●농업인손상예측데이터분석 경진대회참가 - [농업인손상예측데이터분석 경진대회 git링크](https://github.com/dohun-mat/dataAnalysisContest)  
 
-## 논문  
-● [KSC2023]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 - [맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)    
-
-
 ## Personal Proeject
 ●카카오톡api를 이용한 용산IMAX 명당자리 예약알림서비스제작 - [cgv 명당자리 알림서비스 git링크](https://github.com/dohun-mat/cgv-great-location-kakaotalk-alram)  
 
 ## JAVA Project 
 ●java로 고전게임구현 - [java로 뱀게임구현 git링크](https://github.com/dohun-mat/java_snack_game)   
 
-
-
+## 논문  
+● [KSC2023]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 - [맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)    
 
 ## etc
 ●수원대학교 학부연구생 활동  
+●carecruise인턴 2개월 -   
 ●티스토리 링크 : https://dohun-0714.tistory.com/  
 
 
