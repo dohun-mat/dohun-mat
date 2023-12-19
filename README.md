@@ -15,7 +15,7 @@
 ●농업인손상예측데이터분석 경진대회참가 - [농업인손상예측데이터분석 경진대회 git링크](https://github.com/dohun-mat/dataAnalysisContest)  
 
 ## 논문  
-●체비셰프거리 - [ㄹㄹ석 경진대회 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)    
+● [KSC2023]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 - [맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)    
 
 
 ## Personal Proeject
