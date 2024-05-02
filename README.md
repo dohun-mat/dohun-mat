@@ -42,9 +42,6 @@
 1. 수학 - https://aman.ai/primers/math/  
 2. 1:1 그리스문자 - https://datascienceschool.net/02%20mathematics/01.01%20%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EB%AC%B8%EC%9E%90.htm
 
-Gpt4 주소입니다. 3시간당 5회씩이니 신중하게 쓰세요
-https://accounts.forefront.ai/sign-in?redirect_url=https%3A%2F%2Fchat.forefront.ai%2F
-
 computer_vision 로드맵  
 [Computer_Vision.pdf](https://github.com/dohun-mat/dohun-mat/files/11493404/Computer_Vision.pdf)
 
