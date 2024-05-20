@@ -11,12 +11,14 @@
 ● [KSC2023]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 - [맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)  
 ● [KCC2024]BiRetina : BiFPN의 적용으로 RetinaFace모델의 얼굴인식 문제 해결 - [링크는 발표 후 게시예정]  
 
+## 수상
+●수원대학교 국건영 데이터분석 경진대회 대상수상(2022 수원대학교 데이터경진대회 정형데이터 부문 1위) - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
+
 ## Machine Learning Project 
 ●데이콘 와인품질분류대회 참가 - https://github.com/dohun-mat/dacon_wine_class  
 ●수원대 X 데이콘 22년 여름 방학 교육에 참여하여 여러 경진대회의 코드를 리뷰하고 다양한 대회에 나가보았습니다. - [수원대X데이콘 실무역량강화 교육 git링크](https://github.com/dohun-mat/dacon_study)  
 
 ## Data Analysis Project 
-●수원대학교 국건영 데이터분석 경진대회 대상수상(2022 수원대학교 데이터경진대회 정형데이터 부문 1위) - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
 ●농업인손상예측데이터분석 경진대회참가 - [농업인손상예측데이터분석 경진대회 git링크](https://github.com/dohun-mat/dataAnalysisContest)  
 
 ## Personal Proeject
