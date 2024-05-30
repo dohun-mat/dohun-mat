@@ -9,7 +9,7 @@
 
 ## 논문  
 ● [KSC2023]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 - [맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)  
-● [KCC2024]BiRetina : BiFPN의 적용으로 RetinaFace모델의 얼굴인식 문제 해결 - [링크는 발표 후 게시예정]  
+● [KCC2024]BiRetina : BiFPN의 적용으로 RetinaFace모델의 얼굴인식 문제 해결 - [링크는 발표 후 게시예정](https://github.com/dohun-mat/BiRetina)  
 
 ## 수상경력
 ●[대상]수원대학교 국건영 데이터분석 경진대회 대상수상(2022 수원대학교 데이터경진대회 정형데이터 부문 1위) - [수원대학교 국가건강영양 데이터분석 경진대회 git링크](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest)  
