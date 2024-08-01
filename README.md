@@ -17,6 +17,8 @@
 ## Machine Learning Project 
 ●데이콘 와인품질분류대회 참가 - https://github.com/dohun-mat/dacon_wine_class  
 ●수원대 X 데이콘 22년 여름 방학 교육에 참여하여 여러 경진대회의 코드를 리뷰하고 다양한 대회에 나가보았습니다. - [수원대X데이콘 실무역량강화 교육 git링크](https://github.com/dohun-mat/dacon_study)  
+●Mimic4 데이터로 중환자 사망자 예측 모델 제작 - [수원대X데이콘 실무역량강화 교육 git링크](https://github.com/dohun-mat/dacon_study)  
+
 
 ## Data Analysis Project 
 ●농업인손상예측데이터분석 경진대회참가 - [농업인손상예측데이터분석 경진대회 git링크](https://github.com/dohun-mat/dataAnalysisContest)  
