@@ -1,11 +1,12 @@
 # 기술경력   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ## Deep Learning Project 
-
+●dna vision세미나에서 pytorch를 다뤄보고 논문읽고 전이학습 - [dna세미나 git링크 ](https://github.com/dohun-mat/dna_study_semina)  
 ●cnn의 layer들과 활성화맵, gradient를 시각화 - [cnn_visualize_git링크](https://github.com/dohun-mat/cnn_visulaization/tree/main)  
 ●CT사진으로 뇌동맥유무를 판단하는 예측 kium경진대회 참가 - [뇌동맥류 예측 kium ai 경진대회 git 링크](https://github.com/dohun-mat/k-ium_Cerebral-aneurysm/tree/main)  
-●dna vision세미나에서 pytorch를 다뤄보고 논문읽고 전이학습 - [dna세미나 git링크 ](https://github.com/dohun-mat/dna_study_semina)  
 ●논문을 읽어보고 눈문구현 - [논문_code구현링크](https://github.com/dohun-mat/paper_code/tree/main)  
+●모션캡쳐와 streamdiffusion, 눈깜빡임 감지기술과 미디어아트를 결합한 인공지능 전시 프로젝트[미디어아트 AICove 링크](https://dohun-0714.tistory.com/75)
+
 
 ## 논문  
 ● [KSC2023]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 - [맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상 git링크](https://github.com/dohun-mat/ksc2023-SSL_clustering)  
