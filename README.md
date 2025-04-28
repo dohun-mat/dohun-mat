@@ -4,7 +4,6 @@
 ●dna vision세미나에서 pytorch를 다뤄보고 논문읽고 전이학습 - [dna세미나 git링크 ](https://github.com/dohun-mat/dna_study_semina)  
 ●cnn의 layer들과 활성화맵, gradient를 시각화 - [cnn_visualize_git링크](https://github.com/dohun-mat/cnn_visulaization/tree/main)  
 ●CT사진으로 뇌동맥유무를 판단하는 예측 kium경진대회 참가 - [뇌동맥류 예측 kium ai 경진대회 git 링크](https://github.com/dohun-mat/k-ium_Cerebral-aneurysm/tree/main)  
-●논문을 읽어보고 눈문구현 - [논문_code구현링크](https://github.com/dohun-mat/paper_code/tree/main)  
 ●모션캡쳐와 streamdiffusion, 눈깜빡임 감지기술과 미디어아트를 결합한 인공지능 전시 프로젝트 - [미디어아트 AICove 링크](https://dohun-0714.tistory.com/75)
 
 
